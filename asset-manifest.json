@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShanbhagAdarsh/ShippersReactProject/static/css/main.e6c13ad2.css",
+    "main.js": "/ShanbhagAdarsh/ShippersReactProject/static/js/main.0c65fa3e.js",
+    "static/js/787.b9810593.chunk.js": "/ShanbhagAdarsh/ShippersReactProject/static/js/787.b9810593.chunk.js",
+    "index.html": "/ShanbhagAdarsh/ShippersReactProject/index.html",
+    "main.e6c13ad2.css.map": "/ShanbhagAdarsh/ShippersReactProject/static/css/main.e6c13ad2.css.map",
+    "main.0c65fa3e.js.map": "/ShanbhagAdarsh/ShippersReactProject/static/js/main.0c65fa3e.js.map",
+    "787.b9810593.chunk.js.map": "/ShanbhagAdarsh/ShippersReactProject/static/js/787.b9810593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0c65fa3e.js"
+  ]
+}
