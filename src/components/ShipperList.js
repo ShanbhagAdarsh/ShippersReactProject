@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 
-const url = 'http://localhost:8087/api/shippers';
+const url = 'http://34.212.41.221:8080/api/shippers';
 
 
 const ShipperList = () => {
